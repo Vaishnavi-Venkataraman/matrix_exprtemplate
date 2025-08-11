@@ -23,13 +23,13 @@ Expression templates allow us to **avoid unnecessary temporary matrices** and ev
 
 ## File Structure
 matrix/
-├── add.h
-├── base.h
-├── det.h
-├── main.cpp
-├── Makefile
-├── mul.h
-└── sub.h
+- add.h
+- base.h
+- det.h
+- main.cpp
+- Makefile
+- mul.h
+- sub.h
 
 ## Build & Run 
 ```bash
